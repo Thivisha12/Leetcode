@@ -22,4 +22,12 @@ leetcode problems
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
