@@ -13,6 +13,7 @@ leetcode problems
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ leetcode problems
 | ------- |
 | [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,8 +45,13 @@ leetcode problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
