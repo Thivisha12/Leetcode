@@ -33,6 +33,7 @@ leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Backtracking
 |  |
@@ -64,6 +65,7 @@ leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
