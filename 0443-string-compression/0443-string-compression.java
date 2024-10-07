@@ -5,17 +5,19 @@ class Solution {
         int i = 0;
         int idx = 0;
         while (i < n) {
-            int temp = 1;
+            int c=0;
             char ch = chars[i];
-            while (i + temp < n && chars[i + temp] == ch) temp++;
-            if (temp == 1) chars[idx++] = ch;
-            else {
-                chars[idx++] = ch;
-                String count = temp + "";
-                for (char c : count.toCharArray())
-                    chars[idx++] = c;
+            while (i < n && chars[i] == ch){
+                c++;
+                i++;
             }
-            i += temp;
+            chars[idx++] = ch;
+           if(c>1){
+                
+                String s=String.valueOf(c);
+                for (char chh : s.toCharArray())
+                    chars[idx++] = chh;
+            }
         }
         return idx;
     }
