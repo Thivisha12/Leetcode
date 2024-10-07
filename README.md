@@ -40,6 +40,7 @@ leetcode problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,4 +119,12 @@ leetcode problems
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
