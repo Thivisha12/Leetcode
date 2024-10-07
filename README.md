@@ -36,6 +36,7 @@ leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -75,6 +76,7 @@ leetcode problems
 | ------- |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -108,4 +110,12 @@ leetcode problems
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Thivisha12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
