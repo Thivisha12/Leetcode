@@ -21,6 +21,7 @@ leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Thivisha12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
@@ -99,4 +100,12 @@ leetcode problems
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Thivisha12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Thivisha12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
