@@ -32,6 +32,7 @@ leetcode problems
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -49,6 +50,7 @@ leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
@@ -128,4 +130,8 @@ leetcode problems
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
