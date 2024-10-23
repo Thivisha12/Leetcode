@@ -34,6 +34,7 @@ leetcode problems
 | [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -136,8 +137,13 @@ leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
