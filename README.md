@@ -33,6 +33,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thivisha12/Leetcode/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
@@ -84,6 +85,7 @@ leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thivisha12/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
