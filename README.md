@@ -24,6 +24,7 @@ leetcode problems
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Thivisha12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
@@ -90,6 +92,7 @@ leetcode problems
 | [0001-two-sum](https://github.com/Thivisha12/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Sorting
 |  |
@@ -126,6 +129,7 @@ leetcode problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
