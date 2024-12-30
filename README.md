@@ -165,6 +165,7 @@ leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Thivisha12/Leetcode/tree/master/0072-edit-distance) |
 ## Simulation
 |  |
@@ -178,6 +179,7 @@ leetcode problems
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
@@ -187,4 +189,8 @@ leetcode problems
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Thivisha12/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
