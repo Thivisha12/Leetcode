@@ -193,6 +193,7 @@ leetcode problems
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Thivisha12/Leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Thivisha12/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Simulation
 |  |
 | ------- |
