@@ -93,6 +93,7 @@ leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thivisha12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Tree
@@ -216,6 +217,7 @@ leetcode problems
 | ------- |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
+| [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
