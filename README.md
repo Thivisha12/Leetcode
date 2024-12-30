@@ -66,6 +66,7 @@ leetcode problems
 | [0052-n-queens-ii](https://github.com/Thivisha12/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Thivisha12/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +91,7 @@ leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Thivisha12/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -191,6 +193,7 @@ leetcode problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
