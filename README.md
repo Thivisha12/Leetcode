@@ -129,6 +129,7 @@ leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thivisha12/Leetcode/tree/master/0020-valid-parentheses) |
+| [0065-valid-number](https://github.com/Thivisha12/Leetcode/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Thivisha12/Leetcode/tree/master/0072-edit-distance) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 ## Monotonic Stack
