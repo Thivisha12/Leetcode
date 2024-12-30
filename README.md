@@ -43,6 +43,7 @@ leetcode problems
 | [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -63,6 +64,7 @@ leetcode problems
 | [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Thivisha12/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Thivisha12/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@ leetcode problems
 | [0065-valid-number](https://github.com/Thivisha12/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Thivisha12/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Thivisha12/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 ## Monotonic Stack
 |  |
@@ -164,6 +167,7 @@ leetcode problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
