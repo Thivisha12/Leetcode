@@ -81,6 +81,7 @@ leetcode problems
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ leetcode problems
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +171,7 @@ leetcode problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -215,4 +218,8 @@ leetcode problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
