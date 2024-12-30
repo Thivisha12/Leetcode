@@ -42,6 +42,7 @@ leetcode problems
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Thivisha12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
@@ -173,6 +174,7 @@ leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Thivisha12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/Thivisha12/Leetcode/tree/master/1036-rotting-oranges) |
@@ -189,6 +191,7 @@ leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Thivisha12/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
