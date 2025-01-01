@@ -34,6 +34,7 @@ leetcode problems
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -203,6 +204,7 @@ leetcode problems
 | [0072-edit-distance](https://github.com/Thivisha12/Leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
+| [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Thivisha12/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Simulation
 |  |
@@ -221,6 +223,7 @@ leetcode problems
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
+| [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
@@ -248,4 +251,8 @@ leetcode problems
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
