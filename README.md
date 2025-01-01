@@ -201,6 +201,7 @@ leetcode problems
 | [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Thivisha12/Leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
@@ -220,6 +221,7 @@ leetcode problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
@@ -254,5 +256,6 @@ leetcode problems
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
