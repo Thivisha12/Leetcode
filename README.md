@@ -206,6 +206,7 @@ leetcode problems
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Thivisha12/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Simulation
 |  |
@@ -226,6 +227,7 @@ leetcode problems
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
@@ -258,4 +260,5 @@ leetcode problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
