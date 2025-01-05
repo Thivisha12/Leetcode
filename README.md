@@ -11,6 +11,7 @@ leetcode problems
 | [0092-reverse-linked-list-ii](https://github.com/Thivisha12/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
