@@ -93,6 +93,7 @@ leetcode problems
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thivisha12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -100,6 +101,7 @@ leetcode problems
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thivisha12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
@@ -111,12 +113,14 @@ leetcode problems
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thivisha12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
+| [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Thivisha12/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
