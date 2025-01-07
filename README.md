@@ -25,6 +25,7 @@ leetcode problems
 | [0141-linked-list-cycle](https://github.com/Thivisha12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Thivisha12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Thivisha12/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Thivisha12/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
@@ -66,6 +67,7 @@ leetcode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thivisha12/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Thivisha12/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Thivisha12/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Thivisha12/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -295,6 +297,7 @@ leetcode problems
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/Thivisha12/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
