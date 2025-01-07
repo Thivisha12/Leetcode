@@ -200,6 +200,7 @@ leetcode problems
 | [0318-maximum-product-of-word-lengths](https://github.com/Thivisha12/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Thivisha12/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thivisha12/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1940-maximum-xor-for-each-query](https://github.com/Thivisha12/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -216,6 +217,7 @@ leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -227,6 +229,7 @@ leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Heap (Priority Queue)
@@ -262,6 +265,7 @@ leetcode problems
 | [0318-maximum-product-of-word-lengths](https://github.com/Thivisha12/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Thivisha12/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 ## Monotonic Stack
 |  |
