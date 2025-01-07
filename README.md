@@ -71,6 +71,7 @@ leetcode problems
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Thivisha12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Thivisha12/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thivisha12/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Thivisha12/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -104,6 +105,7 @@ leetcode problems
 | [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Thivisha12/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Thivisha12/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Thivisha12/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
@@ -182,6 +184,7 @@ leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Thivisha12/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
