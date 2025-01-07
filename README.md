@@ -199,6 +199,7 @@ leetcode problems
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thivisha12/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Thivisha12/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Thivisha12/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
@@ -329,6 +330,7 @@ leetcode problems
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Thivisha12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Thivisha12/Leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Thivisha12/Leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Thivisha12/Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Thivisha12/Leetcode/tree/master/0403-frog-jump) |
