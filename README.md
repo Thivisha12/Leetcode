@@ -54,6 +54,7 @@ leetcode problems
 | [0064-minimum-path-sum](https://github.com/Thivisha12/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Thivisha12/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -84,6 +85,7 @@ leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +95,7 @@ leetcode problems
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -116,6 +119,7 @@ leetcode problems
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -134,6 +138,7 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thivisha12/Leetcode/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Thivisha12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Thivisha12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
