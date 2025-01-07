@@ -29,6 +29,7 @@ leetcode problems
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Thivisha12/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -77,6 +78,7 @@ leetcode problems
 | [0238-product-of-array-except-self](https://github.com/Thivisha12/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -141,6 +143,7 @@ leetcode problems
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thivisha12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -186,6 +189,7 @@ leetcode problems
 | [0141-linked-list-cycle](https://github.com/Thivisha12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Thivisha12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -196,6 +200,7 @@ leetcode problems
 | [0148-sort-list](https://github.com/Thivisha12/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Heap (Priority Queue)
