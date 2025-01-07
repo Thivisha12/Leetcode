@@ -193,6 +193,7 @@ leetcode problems
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thivisha12/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1940-maximum-xor-for-each-query](https://github.com/Thivisha12/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
@@ -338,6 +339,7 @@ leetcode problems
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Thivisha12/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1236-n-th-tribonacci-number) |
