@@ -197,6 +197,7 @@ leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thivisha12/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Thivisha12/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thivisha12/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1940-maximum-xor-for-each-query](https://github.com/Thivisha12/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -344,6 +345,7 @@ leetcode problems
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Thivisha12/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Thivisha12/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thivisha12/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
