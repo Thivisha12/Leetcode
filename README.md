@@ -83,6 +83,7 @@ leetcode problems
 | [0079-word-search](https://github.com/Thivisha12/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/Thivisha12/Leetcode/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +105,7 @@ leetcode problems
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Thivisha12/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Thivisha12/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Thivisha12/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -132,6 +134,7 @@ leetcode problems
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Thivisha12/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Thivisha12/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Thivisha12/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -284,6 +287,7 @@ leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Thivisha12/Leetcode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Thivisha12/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Thivisha12/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Thivisha12/Leetcode/tree/master/0226-invert-binary-tree) |
