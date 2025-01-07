@@ -88,6 +88,7 @@ leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/Thivisha12/Leetcode/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Thivisha12/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -308,6 +309,7 @@ leetcode problems
 | [0131-palindrome-partitioning](https://github.com/Thivisha12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Thivisha12/Leetcode/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/Thivisha12/Leetcode/tree/master/0403-frog-jump) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Thivisha12/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
