@@ -301,6 +301,7 @@ leetcode problems
 | [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Thivisha12/Leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Thivisha12/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
@@ -341,6 +342,7 @@ leetcode problems
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Thivisha12/Leetcode/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
 ## Memoization
 |  |
