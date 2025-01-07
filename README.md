@@ -125,6 +125,7 @@ leetcode problems
 | [0148-sort-list](https://github.com/Thivisha12/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Thivisha12/Leetcode/tree/master/0372-super-pow) |
 ## Tree
 |  |
 | ------- |
@@ -346,6 +347,7 @@ leetcode problems
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Thivisha12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Thivisha12/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Thivisha12/Leetcode/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thivisha12/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
