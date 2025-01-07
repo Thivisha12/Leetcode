@@ -283,6 +283,7 @@ leetcode problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Thivisha12/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [2645-pass-the-pillow](https://github.com/Thivisha12/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
 | ------- |
@@ -299,6 +300,7 @@ leetcode problems
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2645-pass-the-pillow](https://github.com/Thivisha12/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/Thivisha12/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
