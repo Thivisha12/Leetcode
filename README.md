@@ -37,6 +37,7 @@ leetcode problems
 | [0071-simplify-path](https://github.com/Thivisha12/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Thivisha12/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Thivisha12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -220,6 +221,7 @@ leetcode problems
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Thivisha12/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Thivisha12/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
