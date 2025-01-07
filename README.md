@@ -215,6 +215,7 @@ leetcode problems
 | [0142-linked-list-cycle-ii](https://github.com/Thivisha12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -242,6 +243,7 @@ leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Thivisha12/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Quickselect
 |  |
@@ -259,6 +261,7 @@ leetcode problems
 | [0131-palindrome-partitioning](https://github.com/Thivisha12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thivisha12/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Thivisha12/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 ## Monotonic Stack
 |  |
