@@ -35,6 +35,7 @@ leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Thivisha12/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Thivisha12/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Thivisha12/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -266,6 +267,7 @@ leetcode problems
 | [0344-reverse-string](https://github.com/Thivisha12/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Thivisha12/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 ## Monotonic Stack
 |  |
@@ -328,6 +330,7 @@ leetcode problems
 | [0131-palindrome-partitioning](https://github.com/Thivisha12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Thivisha12/Leetcode/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Thivisha12/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Thivisha12/Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Thivisha12/Leetcode/tree/master/0403-frog-jump) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1236-n-th-tribonacci-number) |
