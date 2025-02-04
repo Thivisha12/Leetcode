@@ -427,4 +427,8 @@ leetcode problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Thivisha12/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Thivisha12/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
