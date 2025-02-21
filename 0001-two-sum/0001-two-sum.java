@@ -9,20 +9,19 @@ class Solution {
         //      }
         //  }
         //  return new int[]{}; // No solution found
-        int i=0;
-        
-       
-         Map<Integer,Integer> m=new HashMap<>();
-        while(i<n){
-            if(m.containsKey(target-nums[i])){
-                return new int[]{i,m.get(target-nums[i])};
-            }
-            else{
-                m.put(nums[i],i);
-            }
-            i++;
-            
-    }
-    return new int[]{};
+       int i=0;
+       Map<Integer,Integer> m=new HashMap<>();
+       while(i<n)
+       {
+        if(m.containsKey(target-nums[i])){
+            return new int[]{m.get(target-nums[i]),i};
+        }
+        else{
+            m.put(nums[i],i);
+        }
+        i++;
+       }
+       return new int[]{m.get(target-nums[i]),i};
 }
 }
+ 
