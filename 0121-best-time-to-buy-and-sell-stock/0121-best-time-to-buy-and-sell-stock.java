@@ -17,7 +17,7 @@ class Solution {
             if(prices[i]<minvalue){
                 minvalue=prices[i];
             }
-            if(prices[i]-minvalue>maxprice){
+            else if(prices[i]-minvalue>maxprice){
                 maxprice=prices[i]-minvalue;
             }
         }
