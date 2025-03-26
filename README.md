@@ -83,6 +83,7 @@ leetcode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thivisha12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Thivisha12/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thivisha12/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Thivisha12/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Thivisha12/Leetcode/tree/master/0198-house-robber) |
@@ -199,6 +200,7 @@ leetcode problems
 | ------- |
 | [0078-subsets](https://github.com/Thivisha12/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Thivisha12/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
