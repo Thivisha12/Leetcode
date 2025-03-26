@@ -90,6 +90,7 @@ leetcode problems
 | [0200-number-of-islands](https://github.com/Thivisha12/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Thivisha12/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Thivisha12/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thivisha12/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -165,6 +166,7 @@ leetcode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thivisha12/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thivisha12/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/Thivisha12/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Thivisha12/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -203,6 +205,7 @@ leetcode problems
 | [0136-single-number](https://github.com/Thivisha12/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Thivisha12/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Thivisha12/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Thivisha12/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Thivisha12/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Thivisha12/Leetcode/tree/master/0338-counting-bits) |
@@ -222,6 +225,7 @@ leetcode problems
 | [0133-clone-graph](https://github.com/Thivisha12/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Thivisha12/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Thivisha12/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/Thivisha12/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
@@ -236,6 +240,7 @@ leetcode problems
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Thivisha12/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thivisha12/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Thivisha12/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Thivisha12/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Thivisha12/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
@@ -366,6 +371,7 @@ leetcode problems
 | [0189-rotate-array](https://github.com/Thivisha12/Leetcode/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Thivisha12/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Thivisha12/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Thivisha12/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Thivisha12/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Thivisha12/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Thivisha12/Leetcode/tree/master/0371-sum-of-two-integers) |
