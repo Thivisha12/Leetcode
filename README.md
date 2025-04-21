@@ -281,6 +281,7 @@ leetcode problems
 | [0383-ransom-note](https://github.com/Thivisha12/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Thivisha12/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Thivisha12/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Thivisha12/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Thivisha12/Leetcode/tree/master/0443-string-compression) |
 ## Monotonic Stack
 |  |
@@ -356,6 +357,7 @@ leetcode problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Thivisha12/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Thivisha12/Leetcode/tree/master/0415-add-strings) |
 | [2645-pass-the-pillow](https://github.com/Thivisha12/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Greedy
 |  |
@@ -378,6 +380,7 @@ leetcode problems
 | [0372-super-pow](https://github.com/Thivisha12/Leetcode/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/Thivisha12/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thivisha12/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Thivisha12/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Thivisha12/Leetcode/tree/master/0507-perfect-number) |
 | [0587-erect-the-fence](https://github.com/Thivisha12/Leetcode/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/Thivisha12/Leetcode/tree/master/1013-fibonacci-number) |
