@@ -219,6 +219,7 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thivisha12/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Thivisha12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Thivisha12/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -270,6 +271,7 @@ leetcode problems
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Thivisha12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Thivisha12/Leetcode/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/Thivisha12/Leetcode/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Thivisha12/Leetcode/tree/master/0071-simplify-path) |
@@ -367,6 +369,7 @@ leetcode problems
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Thivisha12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Thivisha12/Leetcode/tree/master/0089-gray-code) |
