@@ -25,6 +25,7 @@ leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thivisha12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Thivisha12/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thivisha12/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Thivisha12/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -44,6 +45,7 @@ leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thivisha12/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Thivisha12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Thivisha12/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thivisha12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Thivisha12/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -66,6 +68,7 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thivisha12/Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Thivisha12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Thivisha12/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Thivisha12/Leetcode/tree/master/0054-spiral-matrix) |
@@ -291,6 +294,7 @@ leetcode problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thivisha12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thivisha12/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Thivisha12/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Thivisha12/Leetcode/tree/master/0739-daily-temperatures) |
@@ -339,6 +343,7 @@ leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thivisha12/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Thivisha12/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Thivisha12/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
