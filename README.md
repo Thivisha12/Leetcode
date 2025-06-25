@@ -379,6 +379,7 @@ leetcode problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Thivisha12/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Thivisha12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Thivisha12/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
