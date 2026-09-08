@@ -86,6 +86,7 @@ leetcode problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Thivisha12/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thivisha12/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Thivisha12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thivisha12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Thivisha12/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thivisha12/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -357,6 +358,7 @@ leetcode problems
 | [0070-climbing-stairs](https://github.com/Thivisha12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Thivisha12/Leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Thivisha12/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0118-pascals-triangle](https://github.com/Thivisha12/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thivisha12/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Thivisha12/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Thivisha12/Leetcode/tree/master/0198-house-robber) |
