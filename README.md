@@ -516,4 +516,8 @@ leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Thivisha12/Leetcode/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Thivisha12/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
